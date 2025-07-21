@@ -18,8 +18,6 @@ The summarizer follows a classic unsupervised, graph-based pipeline:
 6.  **Summary Generation**: The sentences are ranked based on their scores, and the top-N sentences are selected to form the final extractive summary.
 
 
-*(Conceptual diagram of the project workflow)*
-
 ## Features
 
 -   **Extractive Summarization**: Creates a summary by selecting the most important sentences from the original text.
